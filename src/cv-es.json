@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Jesús Alejandro Núñez González",
+    "label": "Desarrollador Trainee Full-Stack",
+    "image": "https://avatars.githubusercontent.com/u/101071510?v=4",
+    "email": "thefallenhellz@outlook.com",
+    "phone": "(656)304-3418",
+    "url": "https://thefallenhellz.mx",
+    "summary": "Iniciando mi carrera como Desarrollador Web, con experiencia en Marketing y actualmente estudiando Desarrollo de Software Multiplataforma.",
+    "location": {
+      "address": "",
+      "postalCode": "32695",
+      "city": "Juárez, Chihuahua",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thefallenhellz",
+        "url": "https://www.linkedin.com/in/thefallenhellz"
+      },
+      {
+        "network": "GitHub",
+        "username": "thefallenhellz",
+        "url": "https://github.com/thefallenhellz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Meineke",
+      "position": "Auxiliar de Marketing",
+      "url": "https://meineke.mx",
+      "startDate": "2023-07-15",
+      "endDate": null,
+      "summary": "Manejo las redes sociales de la empresa. Brindo servicio al cliente para agendar sus citas y realizar llamadas de seguimiento, además de capturar datos y elaborar reportes. También ayudo a implementar un sistema de citas y calendario con el ecosistema de Google utilizando Google App script.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Soluciones Industriales",
+      "position": "Asistente Administrativo",
+      "startDate": "2020-02-01",
+      "endDate": "2023-06-15",
+      "summary": "Mantenía la comunicación con el cliente, Realizaba facturas mediante ContPaq i, editaba videos promocionales y manejaba las redes sociales.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "XEJ Canal 50.1",
+      "position": "Camarógrafo",
+      "url": "https://xejtv.com/",
+      "startDate": "2019-08-26",
+      "endDate": "2023-02-24",
+      "summary": "Manejé cámaras, micrófonos y switcher para la producción de noticieros en vivo, además de coordinar tiempos para entradas y salidas del aire.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Orbita 106.7",
+      "position": "Jefe de producción",
+      "url": "https://www.imer.mx/orbita/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-05-31",
+      "summary": "Cree vestiduras para la estación. Produje el contenido de programas de cultura. Realice la guionización, grabación y edición de cápsulas informativas para la radio pública.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica de Ciudad Juárez",
+      "url": "https://www.utcj.edu.mx/Paginas/default.aspx",
+      "area": "Ingeniería en Desarrollo y Gestión de Software Multiplataforma",
+      "studyType": "Ingenieria",
+      "startDate": "2024-01-03",
+      "endDate": null,
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Universidad Autónoma de Chihuahua",
+      "url": "https://uach.mx/fcpys/",
+      "area": "Licenciatura en Ciencias de la comunicación, especialidad en medios masivos",
+      "studyType": "Licenciatura",
+      "startDate": "2014-08-01",
+      "endDate": "2018-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medio",
+      "keywords": ["Desarrolo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Medio",
+      "keywords": ["Desarrolo Web", "Frontend", "Diseño Responsivo"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Medio",
+      "keywords": ["Desarrolo Web", "Frontend", "Backend"]
+    },
+    {
+      "name": "React",
+      "level": "Basico",
+      "keywords": ["Desarrolo Web", "Frontend", "Libreria de JavaScript", "UI"]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Hablante Nativo"
+    },
+    {
+      "language": "Ingles",
+      "fluency": "Medio-Avanzado"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "My CV",
+      "isActive": false,
+      "description": "Una plantilla de Curriculum Vitae fácilmente personalizable.",
+      "highlights": ["Astro", "Javascript", "HTML", "CSS"],
+      "url": "https://jncv.netlify.app/"
+    },
+    {
+      "name": "Guess my number",
+      "isActive": false,
+      "description": "Juega contra la máquina y trata de adivinar en que número está pensando.",
+      "highlights": ["Javascript", "HTML", "CSS"],
+      "url": "https://guess-my-number-tfh.netlify.app/"
+    }
+  ]
+}
